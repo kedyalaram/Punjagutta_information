@@ -1,0 +1,15 @@
+.list-group{
+    a{
+    cursor: context-menu;
+    padding:30px;
+     }
+}
+.footer{
+    position: fixed;
+  bottom: 0;
+  width:100%;
+}   
+  h1{
+   padding-top: 20px;
+  }
+  
